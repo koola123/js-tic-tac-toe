@@ -166,15 +166,6 @@ h1.title {
     margin-bottom: 50px;
     font-size: 35px;
   }
-  h1.title span:first-child {
-    color: lime;
-  }
-  h1.title span:nth-child(2) {
-    color: pink;
-  }
-  h1.title span:nth-child(3) {
-    color: steelblue;
-  }
   .winning-message {
     font-size: 30px;
   }
