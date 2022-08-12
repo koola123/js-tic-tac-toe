@@ -164,8 +164,7 @@ h1.title {
 @media screen and (max-width:768px) {
   h1.title {
     margin-bottom: 50px;
-    font-size: 25px;
-    text-decoration: underline;
+    font-size: 35px;
   }
   h1.title span:first-child {
     color: lime;
@@ -182,9 +181,5 @@ h1.title {
   .winning-message button {
     font-size: 25px;
     margin-top: 20px;
-    font-weight: bold;
-  }
-  .winning-message button:hover {
-    background-color: #f1356d;
   }
 }
